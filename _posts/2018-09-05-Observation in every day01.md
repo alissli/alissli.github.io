@@ -2,7 +2,7 @@
 layout: post
 title: 十万个观察|观树十三式（1）
 date: 2018-10-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: 和孩子一起成长，和孩子一起观察 # Add post description (optional)
 img: avatar.jpg # Add image post (optional)
 tags: [poet]
 ---
