@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 观树十三式之一
+title: 十万个观察|观树十三式（1）
 tags: [与子说]
 category: 家有小童
 ---
