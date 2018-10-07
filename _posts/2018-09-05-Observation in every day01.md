@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 十万个观察|观树十三式（1）
-tags: [poet]
-category: 与子说
+tags: [与子说]
+category: 家有小童
 ---
 
-从家到学校的这段距离，不算长，老母亲总是觉得无聊。回读《我是一支爱写作的铅笔》，受斯沃普老师引导学生读、仿写《观鸟十三式》启发，也开始了与小童一起的「观树十三式」。
+从家到学校的这段距离，不算长，老母亲总是觉得无聊。回读《我是一支爱写作的铅笔》，受斯沃普老师引导学生读、仿写《观鸟十三式》启发，也开始了与小童一起的「观树十三式」。
 
 
 ## 上学路
@@ -62,4 +62,3 @@ Thirteen Ways of Looking at a Blackbird出自Wallace的第一本诗集 *Harmoniu
 # 资源
 - [wikipedia-Wallace Stevens]()
 - [《我是一支爱写作的铅笔》](https://book.douban.com/subject/26791063/)
-- []()
