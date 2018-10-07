@@ -2,10 +2,12 @@
 layout: post
 title: 故事工场|童话故事
 date: 2018-04-03 13:32:20 +0300
-description: 说说你和童话的故事吧 # Add post description (optional)
+description: 说说你和童话的故事 # Add post description (optional)
 img:  # Add image post (optional)
 tags: [Fairytale]
 ---
+
+# 童话和我
 
 绿浪起伏的草原，小花圃里伸展着绿油油叶子的青菜，院子里戏逐的鸡鸭……是我小时后在西北草原生活的画面。回到山东后，又是另一番生活景象。有一天，妈妈带回来一本《格林童话》，我爱不释手。早上一轱辘爬起来，来不及吃饭，跑到妈妈经营的小卖部的柜台角落里，捧着书看。那时，字也识不得几个，跳着看；窗外洒进来温煦的阳光，手边是触手可及的小零食，我沉浸在美妙的故事世界中。妈妈感到惊奇，问：字都认不全，你能看懂吗？我就把看完的故事给妈妈讲了一遍。而妈妈得到了我读书的「正反馈」，开始跟爸爸一起，有意识地给我买书。而我从此也走上了阅读的道路。
 
@@ -15,19 +17,19 @@ tags: [Fairytale]
 
 童话？不是给小孩子看的吗？很多成年人不觉露出鄙夷的目光。可是，你真的知道童话是什么吗？
 
-### 古老的童话
+# 古老的童话
 
 童话是源自民间故事的一种小故事形式。比如大家都以为来自德国民间故事的《小红帽》，最早可以追溯至十世纪的欧洲民间故事，其中包括意大利童话《伪装的外婆》（The False Grandmother）。而且，德语中「童话」一词Märchen，来自词根Mär，意思是「故事」或者『传说」而后缀chen，正是「小」的意思。英语中Fairy tale源自法语Conte de fée，是由Madame d'Aulnoy在17世纪创造的（文艺复兴时期）。
 
-[Madame d'Aulnoy](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/D%27Aulnoy.jpg/220px-D%27Aulnoy.jpg)
+![Madame d'Aulnoy](http://p88gyf57l.bkt.clouddn.com/Madame%20d%27Aulnoy.jpg)
 
 实际上，童话稳定成为一种记录下来的文学形式就是在这个时期。生活在这个时代的还有童话奠基者夏尔·佩罗(Charles Perrault)，《灰姑娘》和《睡美人》最早就出自他的编写。
 
-[Charles Perrault](https://upload.wikimedia.org/wikipedia/commons/d/d4/ChPerrault.jpg)
+![Charles Perrault](http://p88gyf57l.bkt.clouddn.com/CharlesPerraul.jpg)
 
 
 
-### 讲出来的童话
+# 讲出来的童话
 
 青色黑板是心中的幕布，丁布吸气，转身、露出招牌开场笑容，「好，主持人客串完毕，下面是故事时间，这个故事的名字……」
 
@@ -46,7 +48,7 @@ tags: [Fairytale]
 童话，是天生适合讲出来的故事。
 
 
-### 孩子的童话
+# 孩子的童话
 
 「当人类全部变成了骷髅人，放在这样一个夸张的情景去理解什么是「以貌取人」，给我造成了很大的冲击。」Aliss刚刚讲完郑渊洁的《309暗室之铁门》，激动地舞动着双手，补充自己的评论，「就是从那个时候，我特别讨厌有人评论别人的长相和外貌。大学念的是军校，女生特别少，男生们几乎是肆无忌惮地评论女生的长相。那时的男朋友讲了一个笑话，说是他周围的男生们给一个胖胖的女孩子，起了个绰号叫「一米见方」，那是我听过的对一个人最恶毒的评价。」她握紧了双手。
 
@@ -55,7 +57,7 @@ tags: [Fairytale]
 童话和孩子联系在一起，历史并不长。最早的童话，既讲给成人也讲给孩子。大约从十九到二十世纪开始，被划入儿童文学，开始按照儿童的心理特点和需要，通过丰富的幻想和夸张的手法来塑造鲜明的形象，用曲折动人的故事情节和浅显易懂的语言文字反映现实生活，抑恶扬善，起到教育目的。
 
 
-### 背后的童话
+# 背后的童话
 
 「格林童话与安徒生童话有什么区别？」丁布抛出了早准备好的问题。
 
@@ -75,3 +77,8 @@ tags: [Fairytale]
 
 
 原来，童话并不是你想的那么简单……
+
+### 参考
+- [Wiki-Fairytale](https://en.wikipedia.org/wiki/Fairy_tale)
+- [Wiki-Madame d'Aulnoy](https://en.wikipedia.org/wiki/Madame_d%27Aulnoy)
+- [Wiki-Charles Perrault](https://en.wikipedia.org/wiki/Charles_Perrault)

@@ -4,14 +4,10 @@ title: 那年十八
 date: 2018-01-01 13:32:20 +0300
 description: 天下谁人不寂寞，我曾懂你十八岁的寂寞，你是否还打算用同样的寂寞打动30+的我？ # Add post description (optional)
 img:  # Add image post (optional)
-tags: [寂寞]
+tags:[Feeling]
 ---
 
-
-
-
 距离新年钟声敲起还有四十八小时，朋友圈掀起了一阵晒照片狂风：我的十八
-
 
 十八岁，遥远到，我懒得去搜寻：何时、何地、和谁。
 

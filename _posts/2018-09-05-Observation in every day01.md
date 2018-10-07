@@ -9,17 +9,14 @@ tags: [poet]
 
 # 前记
 
-# Wallace Stevens
+从家到学校的这段距离，不算长，老母亲总是觉得无聊。回读《我是一支爱写作的铅笔》，受斯沃普老师引导学生读、仿写《观鸟十三式》启发，也开始了与小童一起的「观树十三式」。
 
-Wallace的家乡是加州的雷丁，英文名是Reading。
 
-Thirteen Ways of Looking at a Blackbird出自Wallace的第一本诗集 *Harmonium（1923)*,其中还包括了‘Le Moncle de Mon Oncle’、‘The Man whose Pharynx Was Bad’。
-
-#与子说@观树十三式#
+# 与子说@观树十三式
 
 
 
-## 上学版
+## 上学路
 
 老母亲：昨晚上说要干嘛来着？看树？
 
@@ -47,7 +44,7 @@ Thirteen Ways of Looking at a Blackbird出自Wallace的第一本诗集 *Harmoniu
 
 小童：对啊，对啊！妈妈，这个真是太有意思了！
 
-## 放学版
+## 放学路
 
 小童：妈妈，我们走到那条路上，还来玩观树十三式吧？
 
@@ -63,8 +60,14 @@ Thirteen Ways of Looking at a Blackbird出自Wallace的第一本诗集 *Harmoniu
 
 老母亲：是啊，他们都伸展着手臂，摆来摆去，纠缠到一起去了，于是，我们就有了树荫。
 
+# Wallace Stevens
+
+Wallace的家乡是加州的雷丁，英文名是Reading。
+
+Thirteen Ways of Looking at a Blackbird出自Wallace的第一本诗集 *Harmonium（1923)*,其中还包括了‘Le Moncle de Mon Oncle’、‘The Man whose Pharynx Was Bad’。
+
 
 # 资源
 - [wikipedia-Wallace Stevens]()
-- []()
+- [《我是一支爱写作的铅笔》](https://book.douban.com/subject/26791063/)
 - []()
