@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 她想写一篇小说
-date: 2018-09-18 13:32:20 +0300
-description: 她想写一篇小说，真的。 # Add post description (optional)
-img:  # Add image post (optional)
 tags: [fiction]
+category: 习作
 ---
 
 她想写一篇小说。名字都想好了：《喝一杯咖啡再走》。

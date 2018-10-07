@@ -1,19 +1,14 @@
 ---
 layout: post
 title: 十万个观察|观树十三式（1）
-date: 2018-10-06 13:32:20 +0300
 description: 和孩子一起成长，和孩子一起观察 # Add post description (optional)
-img: avatar.jpg # Add image post (optional)
 tags: [poet]
+category: 与子说
 ---
 
 # 前记
 
 从家到学校的这段距离，不算长，老母亲总是觉得无聊。回读《我是一支爱写作的铅笔》，受斯沃普老师引导学生读、仿写《观鸟十三式》启发，也开始了与小童一起的「观树十三式」。
-
-
-# 与子说@观树十三式
-
 
 
 ## 上学路

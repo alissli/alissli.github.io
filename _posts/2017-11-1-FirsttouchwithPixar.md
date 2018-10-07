@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 站上你的舞台
-date: 2017-11-01 13:32:20 +0300
-description: 春风得意马蹄疾，一朝看尽长安花 # Add post description (optional)
-img:  # Add image post (optional)
 tags: [Pixar]
+category: 活动
 ---
 
 一，二，三，四，你盯着黑灰色的舞台台阶，心里默默数着，接过珊珊递到手里的话筒，你忍不住摸了摸发抖的胸口，控制不住的心跳。主持人丁布还在台上说什么，你听不到，大脑一片空白。音乐响起，还有一段介绍你的小视频，要不是珊珊及时拉住，你就直冲上去了。

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 故事工场|童话故事
-date: 2018-04-03 13:32:20 +0300
-description: 说说你和童话的故事 # Add post description (optional)
-img:  # Add image post (optional)
 tags: [Fairytale]
+category: 活动
 ---
 
 # 童话和我
