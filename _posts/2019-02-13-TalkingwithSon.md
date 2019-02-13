@@ -5,6 +5,8 @@ tags: [育儿]
 category: 育儿育己
 ---
 
+> 做家长没有捷径，唯有学习。
+
 # <center>一<center>
 ---
 
