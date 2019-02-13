@@ -2,7 +2,7 @@
 layout: post
 title: 与子说|游访博物馆
 tags: [育儿]
-category: 育儿育己
+category: 育儿育己
 ---
 
 # <center>一<center>
