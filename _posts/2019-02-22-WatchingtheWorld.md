@@ -36,7 +36,8 @@ category: Education
 
 # <center> 二
 ![waterball](https://user-images.githubusercontent.com/23351109/53287074-3e461f00-37b2-11e9-8872-5c2580344b66.jpeg)
-路过一片草地，狗尾巴草疯长到半人高，叶子上亮闪闪的。
+
+上学，路过一片草地，狗尾巴草疯长到半人高，叶子上亮闪闪的。
 
 老母亲，「看看那些叶子上的露珠像什么？」
 
