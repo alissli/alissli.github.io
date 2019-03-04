@@ -4,6 +4,8 @@ title: 与子说|童言无忌
 tags: [育儿育己]
 catalog: Education
 ---
+> 孩子的眼中，皇帝没有穿新衣
+
 # <center> 一
 
 ![th](https://user-images.githubusercontent.com/23351109/53287103-a5fc6a00-37b2-11e9-8395-753eb753098f.jpeg)
