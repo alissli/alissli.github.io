@@ -2,7 +2,7 @@
 layout: post
 title: 她想写一篇小说
 tags: [Fiction]
-category: 习作
+category: Exercise
 ---
 
 她想写一篇小说。名字都想好了：《喝一杯咖啡再走》。

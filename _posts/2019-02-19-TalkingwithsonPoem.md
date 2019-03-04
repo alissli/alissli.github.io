@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 与子说|想象力大比拼
-tags: [育儿]
-category: 育儿育己
+tags: [育儿育己]
+category: Education
 ---
 
 

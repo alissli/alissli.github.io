@@ -2,7 +2,7 @@
 layout: post
 title: 十图图说|2017
 tags: [feeling]
-category: 随笔
+category: Essay
 ---
 
 古人「新年思万端」，尝尝感怀忧伤。告别过去更痛苦，还是迎接未来更恐惧？我不知道。站在2016年底，我渴望着「改变」。

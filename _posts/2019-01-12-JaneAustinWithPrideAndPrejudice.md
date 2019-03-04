@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 爱情故事|《傲慢与偏见》
-tags: [爱情]
-category: 读书笔记
+tags: [Love]
+category: Reading
 ---
 
 

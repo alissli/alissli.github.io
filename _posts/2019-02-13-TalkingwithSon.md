@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 与子说|游访博物馆
-tags: [育儿]
-category: 育儿育己
+tags: [育儿育己]
+category: Education
 ---
 
 > 做家长没有捷径，唯有学习。

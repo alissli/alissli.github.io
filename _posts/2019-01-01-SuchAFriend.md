@@ -2,7 +2,7 @@
 layout: post
 title: 这样的朋友
 tags: [feeling]
-category: 随笔
+category: Exercise
 ---
 
 霓虹灯闪烁的城市，清冷地风抚着脸庞，远处轰隆隆驶过一班地铁。

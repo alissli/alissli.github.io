@@ -2,7 +2,7 @@
 layout: post
 title: 编程就像学写作（1）
 tags: [Python]
-category: 读书笔记
+category: Reading
 ---
 
 # 从字词开始

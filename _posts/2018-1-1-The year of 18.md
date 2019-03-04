@@ -2,7 +2,7 @@
 layout: post
 title: 那年十八
 tags: [feeling]
-category: 随笔
+category: Essay
 ---
 
 距离新年钟声敲起还有四十八小时，朋友圈掀起了一阵晒照片狂风：我的十八。十八岁，遥远到，我懒得去搜寻：何时、何地、和谁。
