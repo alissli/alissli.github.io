@@ -2,7 +2,7 @@
 layout: post
 title: 一起去地球吧！
 tags: [Fiction]
-category: Excercise
+category: Exercise
 
 ---
 
