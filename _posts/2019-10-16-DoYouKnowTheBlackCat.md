@@ -11,7 +11,7 @@ category: Education
 >
 > <center> <img width="363" alt="屏幕快照 2019-10-16 下午11 07 08" src="https://user-images.githubusercontent.com/23351109/66932418-276a7a80-f06a-11e9-8b14-272ac28db7a5.png">
 >
-> **自从看了电影《罗小黑战记》，家里就多了只小猫咪……**
+> **自从看了电影《罗小黑战记》，家里就多了只小猫咪，比丢，还有一只小小狗……**
 
 
 
