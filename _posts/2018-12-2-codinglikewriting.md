@@ -77,7 +77,7 @@ else:
 - [《"笨办法"学Python》](https://book.douban.com/subject/26264642/)
 - [《黑客与画家》为什么书呆子不受欢迎： 他们的心思在别的地方](https://book.douban.com/subject/6021440/)
 - [《刻意练习-如何从新手到大师》](https://book.douban.com/subject/26895993/)P195-196
-- [开智写匠](http://aiwriter.cn)
+
 
 
 # changelog
