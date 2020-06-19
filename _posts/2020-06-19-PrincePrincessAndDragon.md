@@ -11,7 +11,7 @@ category: Education
 
 ![TheHungryDragon](https://user-images.githubusercontent.com/23351109/85093622-5e0f1b00-b21f-11ea-9df2-f9fc5ee792c6.jpg)
 
-上学路上，久雨的天空展露出明净的蓝色，白色、墨色、厚的、薄的白云簇拥在一起，堆积出一个魔幻世界。
+上学路上，久雨过后的天空展露出明净的蓝色，白色、墨色、厚的、薄的白云簇拥在一起，堆积出一个魔幻世界。
 
 「真美啊！」老母亲感叹，心想，又到了一年一度可以水彩写生的季节了。
 
@@ -68,6 +68,7 @@ category: Education
 > The dragon laughing(laughed), and chasing(chased) the prince.
 >
 > The princess don’t have talk and go(went) back to the castle.(他想表达的是：公主很无语。）
+  （注: 括号内为老母亲修正或者注解）
 **
 
 马路上，按着喇叭的小车一辆接着一辆，老母亲错过了最后一句，还沉浸在上一句的困惑中：什么鬼？要跟公主结婚的dragon去追prince了？忍不住追问，「公主呢？公主干嘛去了？」
