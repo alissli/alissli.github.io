@@ -51,7 +51,7 @@ category: Education
 「OK……」老母亲拉着他踏上台阶，「Go ahead with your story。」
 
 
-> One day, the princess went for a walk,then a dragon was coming.
+**> One day, the princess went for a walk,then a dragon was coming.
 >
 > 「Look，a beautiful princess！」said the dragon，「what‘s your name? I want to marry with you！」
 >
@@ -68,10 +68,11 @@ category: Education
 > The dragon laughing(laughed), and chasing(chased) the prince.
 >
 > The princess don’t have talk and go(went) back to the castle.(他想表达的是：公主很无语。）
+**
 
 马路上，按着喇叭的小车一辆接着一辆，老母亲错过了最后一句，还沉浸在上一句的困惑中：什么鬼？要跟公主结婚的dragon去追prince了？忍不住追问，「公主呢？公主干嘛去了？」
 
-小童又说了一遍最后一句。老母亲哈哈大笑，心想，真有你的！你妈琢磨了一年半，都没想出来重构故事的点子，你第二天就上路了！
+小童小童复述了最后一句。老母亲哈哈大笑，心想，真有你的！你老妈琢磨了一年半，都没想出来重构故事的点子，你倒是第二天就上路了！
 
 小童又露出招牌式、羞怯的笑容，「这个故事，我昨晚上练习了很久呢！」
 
