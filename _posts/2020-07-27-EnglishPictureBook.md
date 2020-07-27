@@ -78,7 +78,7 @@ My owner plays with me
 
 以RAZ、海尼曼这种原版的分级读物为例，谈及宠物，要么是从宠物的视角叙述，要么就是从宠物作为家庭成员或者朋友的角度，由孩子的口气讲述。很少会使用「主人」这种词汇。这个词背后体现的是一种占有关系，不符合英美国家的思维习惯，更不是英美国家的儿童在与宠物相处时，会经常接触的语言。
 <img width="444" alt="截屏2020-07-27 下午4 55 12" src="https://user-images.githubusercontent.com/23351109/88523094-f328df00-d029-11ea-9f9f-d10095387b9b.png">
-这里可以拿BBC出品的一套多语种教育动画片《Big Muzzy》做个对照。在下半部的故事中，坏蛋Corvax支使小跟班Timble干活，自己啥也不干。Timble问他：为什么活都是自己做，而他啥也不用做。Corvax的回答是：
+这里可以拿BBC出品的一套多语种教育动画片《Muzzy》做个对照。在下半部的故事中，坏蛋Corvax支使小跟班Timble干活，自己啥也不干。Timble问他：为什么活都是自己做，而他啥也不用做。Corvax的回答是：
 
 > Because I am important.
 
