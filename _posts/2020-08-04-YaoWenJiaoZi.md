@@ -90,6 +90,7 @@ category: Education
 
 
 #<center> 六岁半
+
 ![138-1385264_clipart-reading-african-american-kids-reading-book-cartoon](https://user-images.githubusercontent.com/23351109/89246272-5a9fe980-d63d-11ea-97dc-0eea92f49263.png)
 
 晚上，小童说想看会儿书，老母亲叫他到自己房间的书桌那里去看。
