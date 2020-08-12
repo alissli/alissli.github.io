@@ -5,6 +5,12 @@ tags: [育儿育己]
 category: Education
 
 ---
+# <center> 引言
+
+在幼儿园，章老师曾经问过小童，「我是你的谁？」
+
+小童低着头玩玩具，悄咪咪地回答，「你是我的小妈妈。」
+
 # <center> 一
 
 ![cartoon-preschool-kindergarten-with-boys-vector-21162066](https://user-images.githubusercontent.com/23351109/89967069-205cca80-dc83-11ea-9003-5966cda8ef37.jpg)
@@ -135,3 +141,4 @@ category: Education
 # changlog
 1. 2020-08-12 09:30-10:18 48min 素材拼劲，找图
 2. 2020-08-12 10:19-10:39 20min 排版，修改字句
+3. 2020-08-12 12min 秀米排版
