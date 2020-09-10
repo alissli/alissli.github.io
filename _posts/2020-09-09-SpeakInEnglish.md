@@ -6,7 +6,9 @@ category: Education
 
 ---
 
-听说孩子三岁可以开始英语启蒙。彼时的老母亲，忙于工作和自我提升，少有精力投诸于此，只是偶尔生活场景中提点一二，聊作启发。
+# <center> 前言
+
+听说孩子三岁可以开始英语启蒙。彼时的老母亲，忙于工作和自我提升，少有精力投诸于此，只是偶尔生活场景中提点一二，聊作启发。以下场景约为四岁至六岁之间。
 
 # <center> 打招呼
 
@@ -22,7 +24,7 @@ category: Education
 
 小童，「嗯，Money。」
 
-老母亲笑弯了腰，「那是Morning...你怎么能一开口，就管国际友人就要钱啊？！」
+老母亲笑弯了腰，「那是Morning...你怎么能一开口，就管国际友人要钱啊？！」
 
 # <center> 数数
 ![carandroad](https://user-images.githubusercontent.com/23351109/92621505-78283900-f2f6-11ea-829e-485f329fcfd9.jpeg)
@@ -66,9 +68,9 @@ category: Education
 老母亲笑了，你挺会推理嘛！
 
 
-# <center> 干嘛呢？
+# <center> 你，干嘛呢？
 
-![paperplane](https://user-images.githubusercontent.com/23351109/92621693-b32a6c80-f2f6-11ea-8728-f08f8f631679.jpeg)
+<img width="464" alt="截屏2020-09-10 上午10 31 54" src="https://user-images.githubusercontent.com/23351109/92676867-10eda180-f355-11ea-8e62-01bd2be82059.png">
 
 蓝灰色的沙发前，小童坐在地板上折纸——一只纸飞机，两只纸飞机，三只纸飞机……老母亲端坐在餐桌前，噼里啪啦地敲着键盘，思绪如水流，倾注在屏幕上。一只白色的影子贴着键盘掠过，打断了思路，老母亲不禁怒从胸中来。
 
@@ -102,3 +104,9 @@ category: Education
 
 「I cannot catch you。」老母亲暗笑，你是打算用这一句撑完今晚吗？
 
+
+
+# changlog
+
+1. 2020-09-09 初稿 
+2. 2020-09-10 修改「前言」，更改纸飞机图片
