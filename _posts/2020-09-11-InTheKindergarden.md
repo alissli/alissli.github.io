@@ -5,6 +5,10 @@ tags: [育儿育己]
 category: Education
 
 ---
+# < center> 前言
+
+据说，获得诺贝尔奖的物理学家卡皮察接受采访时曾表示，人生最重要的东西是在幼儿园学到的。
+
 # <center> 我爱幼儿园
 
 ![IMG_6056](https://user-images.githubusercontent.com/23351109/92853860-e79b4700-f422-11ea-87ba-234c57f52f76.JPG)
