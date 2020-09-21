@@ -60,7 +60,7 @@ category: Education
 
 小童，「那你告诉我，妈妈肚子里怎么才能有宝宝？」
 
-一大清早的要解释这种问题了？！老母亲一激灵，脑子飞快地转着圈，「你刚刚不是说了吗？理论上说要一个男的和女的合作呀。」
+一大清早的要解释这种问题了？！老母亲一激灵，脑子飞快地转着圈，「你刚刚不是说了吗？理论上说要一个男的和女的合作呀。」老母亲寻思，试管婴儿什么的，就暂时不用解释了吧？
 
 
 
@@ -112,7 +112,7 @@ category: Education
 
 **注释：**
 
-The phrase "**the birds and the bees**" is a metaphor for explaining the mechanics of reproduction to younger children, relying on imagery of bees pollinating and eggs hatching to substitute for a more technical explanation of sexual intercourse. It is a way of deflecting the inevitable question that every parent dreads: "Where do babies come from?" and it is an alternative to the explanation that the stork delivers babies.
+The phrase "**the birds and the bees**" is a metaphor for explaining the mechanics of reproduction to younger children, relying on imagery of bees pollinating and eggs hatching to substitute for a more technical explanation of sexual intercourse. It is a way of deflecting the inevitable question that every parent dreads: "Where do babies come from?" and it is an alternative to the explanation that the stork delivers babies.---[**What is the 'Birds and the Bees'?**](https://www.livescience.com/39316-birds-and-the-bees.html)
 
 # Changelog
 
