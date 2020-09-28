@@ -2,7 +2,7 @@
 layout: post
 title: 聊聊霍贝斯
 tags: [Essay]
-category: Exercise
+category: Essay
 
 ---
 
