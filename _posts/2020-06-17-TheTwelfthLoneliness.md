@@ -61,7 +61,7 @@ category: Essay
 
 而现在，我明白了：白瑞德既不需要做一个强者，也不需要做一个弱者，他只是做出了他的选择。我做出了我的选择，而你的答案呢？
 
-
+![IMG_1349](https://user-images.githubusercontent.com/23351109/94528700-55d96980-026b-11eb-87fb-9054e59dc6d3.JPG)
 
 
 
