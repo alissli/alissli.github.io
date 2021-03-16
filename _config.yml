@@ -224,7 +224,7 @@ social:
   email: 45923432@qq.com
   GitHub: https://github.com/alissli
   豆瓣: https://www.douban.com/people/168162511/
-  Wechat: https://github.com/BleuHu/alissli.github.io/blob/master/assets/gognzhonghaotupian.jpg 
+  Wechat: https://github.com/BleuHu/alissli.github.io/blob/master/assets/gognzhonghaotupian.jpg
 
 
 
@@ -407,7 +407,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: Aliss
   count: true
   # hide comments (visitors need to click to load the comments)
