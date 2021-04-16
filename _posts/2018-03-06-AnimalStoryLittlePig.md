@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 动物故事书|想当演员的小猪不是懒小猪
+title: 动物故事书|想当演员的小猪不一定是佩奇
 tags: [KidsWorks]
 category: Essay
 
